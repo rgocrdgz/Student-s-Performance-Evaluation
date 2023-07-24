@@ -1,0 +1,14 @@
+logisticregression 
+logisticregression_l1 
+logisticregression_l2 
+logisticregression_elasticnet 
+sgd 
+mlp 
+decisiontree 
+randomforest 
+extratree 
+extratrees 
+adaboost 
+gaussianprocess 
+gradientboosting 
+svc 

@@ -1,0 +1,14 @@
+logisticregression.joblib
+logisticregression_l1.joblib
+logisticregression_l2.joblib
+logisticregression_elasticnet.joblib
+sgd_l1.joblib
+mlp.joblib
+decisiontree.joblib
+randomforest.joblib
+extratree.joblib
+adaboost.joblib
+extratrees.joblib
+gaussianprocess.joblib
+gradientboosting.joblib
+svc.joblib

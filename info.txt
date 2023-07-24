@@ -1,0 +1,4 @@
+jupyter nbconvert --execute --to html code.ipynb
+jupyter nbconvert --execute --to html --no-input code.ipynb
+jupyter nbconvert --execute ––to html --no-input --no-prompt code.ipynb
+hola
